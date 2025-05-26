@@ -5,7 +5,7 @@
 
 ## 🤓 About me
 
-I'm a developer passionate about emerging technologies and building things that matter.
+I'm a multimedia engineer passionate about emerging technologies, software development and quantum computing. I enjoy building useful, creative and technically applications - especially when they challenge me to keep learning.
 
 - 🧑‍🎓 I'm currently completing a Master's in Quantum Computing
 - 🌐 I develop Fullstack web apps using modern frameworks
@@ -27,7 +27,7 @@ I'm a developer passionate about emerging technologies and building things that 
 
 ## 🧠 Currently Learning
 - Quantum Computing with Qiskit
-- Quantum Algorithims
+- Quantum Algorithms
 - Typescript & performance-first React apps
 
 ## 📊 Github Stats
