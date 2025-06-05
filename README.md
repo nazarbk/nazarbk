@@ -23,7 +23,7 @@ I'm a multimedia engineer passionate about emerging technologies, software devel
     🌐 [qonverse.vercel.app](https://qonverse.vercel.app)
 - [🔭 Quantum Visualizer](https://github.com/nazarbk/quantum_single_qubit_visualizer) - Bloch sphere interactive app built with Qiskit + Streamlit. 
     🌐 [quantum-single-qubit-visualizer.streamlit.app](https://quantum-single-qubit-visualizer.streamlit.app/)
-- See more at my [portfolio]([https://nazarblancoweb.web.app](https://nazar-blanco-portfolio.vercel.app/))
+- See more at my [portfolio](https://nazar-blanco-portfolio.vercel.app/)
 
 ## 🧠 Currently Learning
 - Quantum Computing with Qiskit
@@ -37,4 +37,4 @@ I'm a multimedia engineer passionate about emerging technologies, software devel
 
 ## 📫 Get in Touch
 - LinkedIn: [nazar-blanco-kataran](https://www.linkedin.com/in/nazar-blanco-kataran/)
-- Portfolio: [nazarblancoweb.web.app]([https://nazarblancoweb.web.app](https://nazar-blanco-portfolio.vercel.app/))
+- Portfolio: [nazarblancoweb.web.app](https://nazar-blanco-portfolio.vercel.app/)
