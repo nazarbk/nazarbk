@@ -37,4 +37,4 @@ I'm a multimedia engineer passionate about emerging technologies, software devel
 
 ## 📫 Get in Touch
 - LinkedIn: [nazar-blanco-kataran](https://www.linkedin.com/in/nazar-blanco-kataran/)
-- Portfolio: [nazarblancoweb.web.app](https://nazar-blanco-portfolio.vercel.app/)
+- Portfolio: [nazar-blanco-portfolio](https://nazar-blanco-portfolio.vercel.app/)
