@@ -19,6 +19,8 @@ I'm a multimedia engineer passionate about emerging technologies, software devel
 - **Tools:** `github`, `photoshop`, `illustrator`, `streamlit`
 
 ## 🧩 Last Projects
+- [🔐 BB84 Protocol Simulator](https://github.com/nazarbk/bb84_app) - Interactive Streamlit app simulating the BB84 quantum cryptography protocol.
+    🌐 [bb84-protocol.streamlit.app](https://bb84-protocol.streamlit.app/)
 - [🚀 Qonverse](https://github.com/nazarbk/qonverse) - AI-powered conversation simulator using Clerk + Firebase.
     🌐 [qonverse.vercel.app](https://qonverse.vercel.app)
 - [🔭 Quantum Visualizer](https://github.com/nazarbk/quantum_single_qubit_visualizer) - Bloch sphere interactive app built with Qiskit + Streamlit. 
