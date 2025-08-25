@@ -1,7 +1,7 @@
 
 # Hi, I'm Nazar!
 
-`🎓 Multimedia Engineer` `💻 Web & Fullstack Developer`
+`🎓 Multimedia Engineer` `💻 Web & Fullstack Developer` `🔭 Quantum Engineer`
 
 ## 🤓 About me
 
