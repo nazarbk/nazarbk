@@ -7,7 +7,7 @@
 
 I'm a multimedia engineer passionate about emerging technologies, software development and quantum computing. I enjoy building useful, creative and technically applications - especially when they challenge me to keep learning.
 
-- 🧑‍🎓 I'm currently completing a Master's in Quantum Computing
+- 🧑‍🎓 I finished a Master's in Quantum Computing
 - 🌐 I develop Fullstack web apps using modern frameworks
 
 ## 🖥️ Tech Stack
