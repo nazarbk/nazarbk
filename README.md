@@ -29,7 +29,7 @@ I'm a multimedia engineer passionate about emerging technologies, software devel
 - [🔐 Lockr](https://github.com/nazarbk/bloc-claves) - Encrypted password notebook for mobile (Expo / React Native): PIN and biometric unlock, AES-256-GCM vault, security center for weak, reused and leaked passwords, and encrypted backups.
 
 ### 🔭 Quantum
-- [⚛️ q-state-prep](https://github.com/nazarbk/q-state-prep) - Quantum state preparation.
+- [⚛️ q-state-prep](https://github.com/nazarbk/q-state-prep) - Python library that prepares 1D procedural noise distributions as quantum states. Compares exact tree-based preparation, branch pruning to cut gate count and a variational circuit trained with COBYLA, with a Streamlit dashboard to benchmark them (Qiskit, SciPy).
 - [🧪 Quantum Lab](https://github.com/nazarbk/bit-vs-qubit) - Interactive journey through superposition, entanglement and quantum cryptography with in-browser simulations.
   🌐 [bit-vs-qubit.vercel.app](https://bit-vs-qubit.vercel.app/)
 - [🔑 BB84 Protocol Simulator](https://github.com/nazarbk/bb84_app) - Interactive Streamlit app simulating the BB84 quantum cryptography protocol.
