@@ -23,7 +23,7 @@ I'm a multimedia engineer passionate about emerging technologies, software devel
 
 ### 🌐 Web & Mobile
 - [📄 CV Analyzer](https://github.com/nazarbk/analizador_cv) - Analyzes a résumé entirely in the browser: ATS and AI filter checks, job-offer keyword matching, country conventions and an ATS-friendly template export. No server, no cookies.
-  🌐 [cv-analizador.netlify.app](https://cv-analizador.netlify.app/)
+  🌐 [cv-analizador.netlify.app](https://cv-analizador.com)
 - [🍣 Sushi League](https://sushi-league.netlify.app/) - Real-time sushi counter for all-you-can-eat nights with friends: everyone counts from their own phone, with a live ranking and a "how full are you?" check at the end.
   🌐 [sushi-league.netlify.app](https://sushi-league.netlify.app/)
 - [🔐 Lockr](https://github.com/nazarbk/bloc-claves) - Encrypted password notebook for mobile (Expo / React Native): PIN and biometric unlock, AES-256-GCM vault, security center for weak, reused and leaked passwords, and encrypted backups.
